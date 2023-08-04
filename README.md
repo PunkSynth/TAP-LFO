@@ -20,7 +20,7 @@ The schematic and the BOM-list is provided as pdf-documents.
 ## Usage
 I have provided some pics of the perfboard and the panel connected the the Korg MS-20.
 
-![](MIDI_Keyboard/res/Screen_Dump.png)
+![](TAPLFO3_FrontPanel.jpg)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
